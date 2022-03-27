@@ -2,4 +2,3 @@ dummy file
 line1 added to dummy branch
 new line2 added
 line added from browser
-line 3 added
